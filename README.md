@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tinkapaul
-- 👀 I’m interested in becoming a data analyst
+- 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on python and sql projects
 - 📫 How to reach me on my email @Tinkapaul05@gmail.com 
